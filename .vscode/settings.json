@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "cmsis_os.h": "c",
+        "freertos.h": "c",
+        "task.h": "c",
+        "queue.h": "c",
+        "humd.h": "c",
+        "temp.h": "c",
+        "lcd_i2c.h": "c",
+        "main.h": "c"
+    }
+}
